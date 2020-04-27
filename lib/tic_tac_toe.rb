@@ -67,7 +67,7 @@ class TicTacToe
       if space == "X" || space == "O"
         turns += 1 
       end
-      
+        turns
     end 
   end 
   
